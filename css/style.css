@@ -425,6 +425,10 @@ p.bannerDescription{
     font-family: Verdana, Geneva, Arial, sans-serif;
 
     }
+.text_deatels p {
+    text-align: justify;
+}
+
 
 
 .delegacia{
@@ -858,5 +862,3 @@ a.info_right_text{
 	background-size:100% 100%;	
 	
 }
-
-
